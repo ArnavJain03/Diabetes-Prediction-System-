@@ -1,1 +1,0 @@
-streamlit run DAIABETES PREDICTION Web app.py
